@@ -1,0 +1,22 @@
+{
+  "required": [
+    "id", "title", "show", "date", "guest", "role", "company",
+    "format", "sponsored", "vendor_guest", "ai_stance", "topics"
+  ],
+  "enums": {
+    "format": ["interview", "panel", "solo", "other"],
+    "sponsored": ["no", "ads", "series", "guest"],
+    "vendor_guest": ["yes", "no"],
+    "ai_stance": ["optimist", "pragmatist", "sceptic", "n/a"]
+  },
+  "topics": ["setup", "practice", "measurement", "risk", "skill"],
+  "topics_min": 2,
+  "topics_max": 5,
+  "headings": ["## Summary", "## Claims", "## Evidence", "## Moments", "## Gaps"],
+  "words_min": 100,
+  "words_max": 320,
+  "quotes_max": 2,
+  "quote_words_max": 12,
+  "timestamps_min": 5,
+  "reviewer": "you"
+}

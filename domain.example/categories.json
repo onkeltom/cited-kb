@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-11-10",
+  "reviewer": "you",
+  "categories": [
+    {
+      "id": "G01",
+      "name": "Naming the tool instead of the work",
+      "definition": "A speaker gives a new tool the credit for a change that was already a change in the work. Placeholder. Replace this with a category you can explain from your own sources.",
+      "status": "robust",
+      "aliases": ["the tool gets the credit"]
+    },
+    {
+      "id": "G02",
+      "name": "Counting activity and calling it the outcome",
+      "definition": "A speaker treats a count of use as proof that the thing worked. Placeholder. Replace this before you tag at any scale.",
+      "status": "robust",
+      "aliases": ["activity standing in for the result"]
+    }
+  ]
+}

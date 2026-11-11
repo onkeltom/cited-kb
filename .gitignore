@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+cited.sqlite
+cited.sqlite-*
+transcripts/*
+!transcripts/.gitkeep
+cards/*
+!cards/.gitkeep
+domain/
+models/*
+!models/README.md
+queue.txt
+mining/tags.jsonl

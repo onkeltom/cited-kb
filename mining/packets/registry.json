@@ -1,0 +1,14 @@
+{
+  "packets": {
+    "anomaly": {
+      "file": "anomaly.md",
+      "title": "Claims that fit no category",
+      "categories": [],
+      "layer_by_cat": {},
+      "research": [],
+      "max_support": 25,
+      "anomaly": true
+    }
+  },
+  "research_map": {}
+}
